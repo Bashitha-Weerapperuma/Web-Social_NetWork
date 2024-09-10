@@ -1,2 +1,2 @@
-# Library-Management-System
-University Final Project
+# Web_Social_Network
+Social Network
